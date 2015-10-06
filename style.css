@@ -3,18 +3,19 @@
 .fright {float:right}
 .fcenter {float:none;margin:0 auto;width:96%}
 .fclear {clear:both}
+img{max-width:100%}
 body{margin:0;padding:0;font:14px/18px Georgia, "Times New Roman", Times, serif;color:#404040}
 div, p, ul, h1, h2, h3, h4, form{margin:0px;padding:0}
 ul{list-style-type:none}
 #topPan{width:708px;height:369px;position:relative;margin:0 auto;padding:0}
-#topPan h1{width:172px;height:165px;position:absolute;top:113px;left:0px;display:block;background:url(images/2013pic1.jpg) 0 0 no-repeat #FEFFFE;font:24px/18px "Trebuchet MS",Arial,Helvetica,sans-serif;color:#fff;padding:65px 86px 0 450px;font-weight:normal}
-#topPan img{width:245px;height:39px;display:block;position:absolute;top:69px;left:0px;border:0; padding:5px 0 0 10px; }
+#topPan h1{width:172px;height:165px;position:absolute;top:113px;left:0px;display:block;background:url(images/2013pic1.jpg) 0 0 no-repeat #FEFFFE;background-size: contain;font:24px/18px "Trebuchet MS",Arial,Helvetica,sans-serif;color:#fff;padding:65px 86px 0 450px;font-weight:normal}
+#topPan img{max-width:100%;width:245px;height:39px;display:block;position:absolute;top:69px;left:0px;border:0; padding:5px 0 0 10px; }
 #topPan ul{width:410px;height:27px;position:absolute;top:77px;right:0}
 #topPan ul li{float:right;width:102px;height:27px;display:block}
-#topPan ul li a{display:block;width:102px;height:27px;background:#6d985f;color:#fff;font:13px/27px Arial,Helvetica,sans-serif;text-decoration:none;font-weight:bold;text-align:center}
-#topPan ul li a:hover{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;color:#fff;text-decoration:none}
-#topPan ul li.company{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;color:#fff;text-decoration:none;font:13px/27px Arial,Helvetica,sans-serif;font-weight:bold;text-align:center}
-#mainmiddlePan{height:360px;background:url(images/middlepanbg.gif) 0 0 repeat-x #F0F0F0;color:#404040;padding:17px 0 0}
+#topPan ul li a{display:block;width:102px;height:27px;background:#6d985f;background-size: contain;color:#fff;font:13px/27px Arial,Helvetica,sans-serif;text-decoration:none;font-weight:bold;text-align:center}
+#topPan ul li a:hover{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;background-size: contain;color:#fff;text-decoration:none}
+#topPan ul li.company{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;background-size: contain;color:#fff;text-decoration:none;font:13px/27px Arial,Helvetica,sans-serif;font-weight:bold;text-align:center}
+#mainmiddlePan{height:360px;background:url(images/middlepanbg.gif) 0 0 repeat-x #F0F0F0;background-size: contain;color:#404040;padding:17px 0 0}
 #middlePan{width:708px;position:relative;margin:0 auto}
 #middleleftPan{width:475px;float:left}
 #middleleftPan a{color:#6d985f}
@@ -22,39 +23,39 @@ ul{list-style-type:none}
 #middleleftPan p{padding:10px 5px 0 0} 
 #middleleftPan p span.boldtext{font-weight:bold}
 #middleleftPan p.more{width:118px;height:24px;margin:20px 0 0 284px;padding:0}
-#middleleftPan p.more a{width:100px;height:24px;display:block;background:url(images/icon5.jpg) 0 0 no-repeat #F0F0F0;color:#6d985f;font:16px/24px "Trebuchet MS", Arial,Helvetica,sans-serif;padding:0 0 0 30px;text-decoration:none}
+#middleleftPan p.more a{width:100px;height:24px;display:block;background:url(images/icon5.jpg) 0 0 no-repeat #F0F0F0;background-size: contain;color:#6d985f;font:16px/24px "Trebuchet MS", Arial,Helvetica,sans-serif;padding:0 0 0 30px;text-decoration:none}
 #middleleftPan p.more a:hover{text-decoration:underline}
 #middlerightPan{width:233px;float:left}
 #middlerightPan h2:first-of-type{width:150px;display:block;;color:#6d985f;font:22px Arial,Helvetica,sans-serif;padding:0 0 0 15px}
 #middlerightPan h2{width:150px;display:block;;color:#6d985f;font:22px Arial,Helvetica,sans-serif;padding:10px 0 0 15px}
 #middlerightPan a{display:block;color:#6d985f;font:14px/24px Arial,Helvetica,sans-serif;padding:0 0 0 35px;text-decoration:none}
-#middlerightPan a:hover{background:url(images/flame2.png) 7% 50% no-repeat #fff;color:#000;text-decoration:none}
+#middlerightPan a:hover{background:url(images/flame2.png) 7% 50% no-repeat #fff;background-size: contain;color:#000;text-decoration:none}
 #middlerightPan p.online{width:233px;height:88px;margin:18px 0 23px}
-#middlerightPan p.online a{width:189px;height:66px;display:block;background:url(images/online.jpg) 0 0 no-repeat #EFEFEF;color:#fff;font:18px/20px Arial,Helvetica,sans-serif;font-weight:bold;text-decoration:none;padding:22px 0 0 44px}
+#middlerightPan p.online a{width:189px;height:66px;display:block;background:url(images/online.jpg) 0 0 no-repeat #EFEFEF;background-size: contain;color:#fff;font:18px/20px Arial,Helvetica,sans-serif;font-weight:bold;text-decoration:none;padding:22px 0 0 44px}
 #middlerightPan p.online a:hover{text-decoration:none}
 #bottomPan {width:708px;position:relative;margin:0 auto}
-#bottommiddlePan {width:708px;float:left;margin:41px 0;background:url(images/middleborder.gif) 0 0 repeat-y}
+#bottommiddlePan {width:708px;float:left;margin:41px 0;background:url(images/middleborder.gif) 0 0 repeat-y;background-size: contain}
 #bottomleftPan{width:354px;float:left}
 #bottomleftPan p{padding:10px 72px 0 0} 
 #bottomleftPan p span.boldtext{font-weight:bold}
 #bottomleftPan p.more{width:118px;height:24px;margin:20px 0 0 186px;padding:0}
-#bottomleftPan p.more a{width:100px;height:24px;display:block;background:url(images/icon5.jpg) 0 0 no-repeat #fff;color:#6d985f;font:16px/24px "Trebuchet MS", Arial,Helvetica,sans-serif;padding:0 0 0 30px;text-decoration:none}
+#bottomleftPan p.more a{width:100px;height:24px;display:block;background:url(images/icon5.jpg) 0 0 no-repeat #fff;background-size: contain;color:#6d985f;font:16px/24px "Trebuchet MS", Arial,Helvetica,sans-serif;padding:0 0 0 30px;text-decoration:none}
 #bottomleftPan p.more a:hover{text-decoration:underline}
-#bottomleftPan h2{width:260px;height:57px;background:url(images/icon4.jpg) 0 0% no-repeat #fff;color:#D67200;font:26px/35px Arial,Helvetica,sans-serif;padding:0 0 0 60px}
+#bottomleftPan h2{width:260px;height:57px;background:url(images/icon4.jpg) 0 0% no-repeat #fff;background-size: contain;color:#D67200;font:26px/35px Arial,Helvetica,sans-serif;padding:0 0 0 60px}
 #bottomleftPan h3{width:260px;height:26px;font-size:18px;display:block}
-#bottomleftPan h4{width:298px;height:104px;background:url(images/image1.jpg) 0 0 no-repeat #fff;color:#000;text-indent:-20000px;margin:25px 0 0}
+#bottomleftPan h4{width:298px;height:104px;background:url(images/image1.jpg) 0 0 no-repeat #fff;background-size: contain;color:#000;text-indent:-20000px;margin:25px 0 0}
 #bottomrightPan{width:354px;float:left}
 #bottomrightPan p{padding:10px 2px 0 60px} 
 #bottomrightPan p span.boldtext{font-weight:bold}
 #bottomrightPan p.more{width:80px;height:24px;margin:20px 0 0 238px;padding:0}
-#bottomrightPan p.more a{width:80px;height:24px;display:block;background:url(images/icon5.jpg) 0 0 no-repeat #fff;color:#6d985f;font:16px/24px "Trebuchet MS", Arial,Helvetica,sans-serif;padding:0 0 0 30px;text-decoration:none}
+#bottomrightPan p.more a{width:80px;height:24px;display:block;background:url(images/icon5.jpg) 0 0 no-repeat #fff;background-size: contain;color:#6d985f;font:16px/24px "Trebuchet MS", Arial,Helvetica,sans-serif;padding:0 0 0 30px;text-decoration:none}
 #bottomrightPan p.more a:hover{text-decoration:underline}
 #bottomrightPan h2{width:200px;height:26px;font-size:18px;display:block;line-height:26px;padding:0 0 0 60px;margin:57px 0 0}
-#bottomrightPan h3{width:152px;height:74px;display:block;background:url(images/image2.jpg) 0 0 no-repeat #FEFEFE;color:#fff;font:18px/20px "Trebuchet MS", Arial,Helvetica,sans-serif;margin:25px 0 0 60px;font-weight:bold;text-transform:uppercase;padding:30px 126px 0 14px}
+#bottomrightPan h3{width:152px;height:74px;display:block;background:url(images/image2.jpg) 0 0 no-repeat #FEFEFE;background-size: contain;color:#fff;font:18px/20px "Trebuchet MS", Arial,Helvetica,sans-serif;margin:25px 0 0 60px;font-weight:bold;text-transform:uppercase;padding:30px 126px 0 14px}
 #bottomrightPan h3 span{ font-size:14px;text-transform:none}
 #footermainPan{height:174px;color:#fff;margin:0;padding:0;clear:both;padding:10px 0 0 0}
 
-#footer {width:708px;background:#6d985f ;margin:0 auto;padding:10px 10px 10px 10px}
+#footer {width:708px;background:#6d985f ;background-size: contain;margin:0 auto;padding:10px 10px 10px 10px}
 #footer a{color:#ffffff}
 #footer p {color:#000;font:11px/15px Tahoma,Arial,Helvetica,sans-serif;}
 #footer .fright {position:relative;  top:-15px}
