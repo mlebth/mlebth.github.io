@@ -7,13 +7,13 @@ body{margin:0;padding:0;font:14px/18px Georgia, "Times New Roman", Times, serif;
 div, p, ul, h1, h2, h3, h4, form{margin:0px;padding:0}
 ul{list-style-type:none}
 #topPan{width:708px;height:369px;position:relative;margin:0 auto;padding:0}
-#topPan h1{width:172px;height:165px;position:absolute;top:113px;left:0px;display:block;background:url(images/2013pic1.jpg) 0 0 no-repeat #FEFFFE;background-size: contain;font:24px/18px "Trebuchet MS",Arial,Helvetica,sans-serif;color:#fff;padding:65px 86px 0 450px;font-weight:normal}
+#topPan h1{width:172px;height:165px;position:absolute;top:113px;left:0px;display:block;background:url(images/2013pic1.jpg) 0 0 no-repeat #FEFFFE;font:24px/18px "Trebuchet MS",Arial,Helvetica,sans-serif;color:#fff;padding:65px 86px 0 450px;font-weight:normal}
 #topPan img{max-width:100%;display:block;position:absolute;top:69px;left:0px;border:0; padding:5px 0 0 10px; }
 #topPan ul{width:410px;height:27px;position:absolute;top:77px;right:0}
 #topPan ul li{float:right;width:102px;height:27px;display:block}
 #topPan ul li a{display:block;width:102px;height:27px;background:#6d985f;background-size: contain;color:#fff;font:13px/27px Arial,Helvetica,sans-serif;text-decoration:none;font-weight:bold;text-align:center}
-#topPan ul li a:hover{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;background-size: contain;color:#fff;text-decoration:none}
-#topPan ul li.company{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;background-size: contain;color:#fff;text-decoration:none;font:13px/27px Arial,Helvetica,sans-serif;font-weight:bold;text-align:center}
+#topPan ul li a:hover{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;color:#fff;text-decoration:none}
+#topPan ul li.company{background:url(images/bullet1.gif) 50% 0 no-repeat #6d985f;color:#fff;text-decoration:none;font:13px/27px Arial,Helvetica,sans-serif;font-weight:bold;text-align:center}
 #mainmiddlePan{height:360px;background:url(images/middlepanbg.gif) 0 0 repeat-x #F0F0F0;background-size: contain;color:#404040;padding:17px 0 0}
 #middlePan{width:708px;position:relative;margin:0 auto}
 #middleleftPan{width:475px;float:left}
