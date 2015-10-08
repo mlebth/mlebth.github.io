@@ -3,6 +3,8 @@
 .fright {float:right}
 .fcenter {float:none;margin:0 auto;width:96%}
 .fclear {clear:both}
+@-ms-viewport{width: device-width}
+img{max-width:100%}
 body{margin:0;padding:0;font:14px/18px Georgia, "Times New Roman", Times, serif;color:#404040}
 div, p, ul, h1, h2, h3, h4, form{margin:0px;padding:0}
 ul{list-style-type:none}
