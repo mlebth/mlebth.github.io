@@ -65,7 +65,7 @@ Here are a few more things you can do with Markdown:
 ### Quoted text
 
 >
-Lollipop toffee pastry candy canes jelly fruitcake. Candy canes soufflé cookie tootsie roll jelly tootsie roll jelly beans jelly beans gummies. Cotton candy brownie bear claw candy sweet gummi bears cheesecake candy sweet roll.
+Lollipop toffee pastry candy canes jelly fruitcake. Candy canes soufflÃ© cookie tootsie roll jelly tootsie roll jelly beans jelly beans gummies. Cotton candy brownie bear claw candy sweet gummi bears cheesecake candy sweet roll.
 
 Croissant bonbon tiramisu cake. Brownie danish brownie brownie toffee chocolate cake liquorice. Jujubes brownie applicake icing sweet roll biscuit. Fruitcake pudding applicake lemon drops chupa chups biscuit sesame snaps sesame snaps apple pie. Topping tiramisu fruitcake. Lemon drops muffin oat cake toffee halvah.
 
